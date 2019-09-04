@@ -1,0 +1,19 @@
+{
+	"name": "gulp_test",
+	"version": "1.0.0",
+	"description": "basics of gulp - gulp is a toolkit for automating painful or time-consuming tasks in your development workflow, so you can stop messing around and build something.",
+	"main": "gulpfile.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "LakshithaMadushan",
+	"license": "ISC",
+	"devDependencies": {
+		"browser-sync": "^2.26.7",
+		"gulp": "^4.0.2",
+		"gulp-rename": "^1.4.0",
+		"gulp-sass": "^4.0.2",
+		"gulp-shell": "^0.7.1",
+		"gulp-sourcemaps": "^2.6.5"
+	}
+}
